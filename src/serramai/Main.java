@@ -12,6 +12,7 @@ import java.util.Scanner;
  * @author maizi
  */
 public class Main {
+    //second
 
     public static void main(String[] args) {
 
