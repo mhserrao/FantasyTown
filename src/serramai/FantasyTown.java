@@ -8,10 +8,6 @@ package serramai;
 import java.util.Random;
 
 /**
- * Name: Maiziel Serrao
- * File: FantasyTown.java
- * Main class: Main.java
- * 
  * FantasyTown class represents a program that creates and modifies a fantasy
  * town. A FantasyTown object is characterized by its name, description,
  * coordinates, occupants, and capacity. Methods included in this class can set
