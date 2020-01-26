@@ -8,11 +8,6 @@ package serramai;
 import java.util.Scanner;
 
 /**
- * Name: Maiziel Serrao 
- * Assignment: Fantasy Towns
- * Program: Software Development and Network Engineering 
- * Date: January 26, 2020
- *
  * A program that allows the user create fantasy towns. The name, description,
  * capacity, number of occupants, names of occupants, and coordinates of
  * FantasyTowns are set by the user. The user then can travel to other
